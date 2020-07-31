@@ -1,7 +1,7 @@
 # Machine-Learning-Codes
 Basic Template for any machine learning technique in Python and R along with a sample data set
 
-*Algorithm Includes  as follows:
+*Algorithm Includes  as follows:*
 
 ## Regression
 ### Linear Regression
